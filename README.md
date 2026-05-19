@@ -1,5 +1,4 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/The-Magicians-Code/Strato-Pi)
-## Full-Stack application for controlling motor load machine with StratoPi
+## Full-Stack application for controlling motor load machine with StratoPi [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/The-Magicians-Code/Strato-Pi)
 System page consists of three categories:
 - System control
 - Documentation
